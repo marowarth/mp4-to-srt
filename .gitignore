@@ -6,3 +6,5 @@ obj/
 
 # Evitar la carpeta .vs (configuración de Visual Studio)
 .vs/
+
+!ffmpeg/bin/
